@@ -1,0 +1,65 @@
+/* STYLES */
+
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?cs=srgb&dl=pexels-henry-%26-co-1939485.jpg&fm=jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+main {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 48px;
+    line-height: 95%;
+    letter-spacing: -1px;
+    background-color: rgb(114, 115, 86);
+    padding: 15px;
+    color: white;
+
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(114, 115, 86);
+    margin-bottom: 40px;
+
+}
+
+h3 {
+    color: white;
+    font-size: 24px;
+    background-color: rgb(114, 115, 86);
+    padding: 5px;
+    margin-top: 40px;
+
+}
+
+h4 {
+    color: rgb(114, 115, 86);
+    font-size: 22px;
+    margin-bottom: 10px;
+
+}
+
+em {
+    color: rgb(114, 115, 86);
+    font-weight: bold;
+
+}
+
+ul {
+    font-weight: bold;
+    list-style-type: circle;
+    margin-bottom: 40px;
+
+}
+
